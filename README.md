@@ -1,7 +1,7 @@
 <!-- Youth! README -->
-
 <div align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/658e8600-887b-4ed7-b800-66ac8582f8de" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=89CFF0&height=150&section=header" />
+  <img src="https://github.com/user-attachments/assets/701f467c-9168-48da-aca1-fb543036624e" width="500px" height="400px" />
 </div>
 
 <div align="center">
