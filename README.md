@@ -13,12 +13,13 @@
 <br><br>
 
 <div align='center'>
+ 
+  <a href="https://github.com/youthFestival">
+      <img src="https://img.shields.io/badge/GitHub-project_github-red?&style=for-the-badge&logo=github">
+  </a> 
+
   <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4">
       <img src="https://img.shields.io/badge/Notion-project_doc-blue?&style=for-the-badge&logo=notion">
-  </a>
-
-  <a href="https://github.com/youthFestival">
-      <img src="https://img.shields.io/badge/GitHub-project_github-blue?&style=for-the-badge&logo=github">
   </a>
   
 </div>
@@ -28,6 +29,7 @@
 <h1 align='center'> <b> Project Description </b></h1>
 <p align='center'>매해마다 찾아오는 대학축제 그리고 페스티벌 시즌! 즐기는 사람들을 위한 축제 정보 제공 웹 사이트 Youth!입니다. <br>다양한 니즈(needs)와 음악 취향 그리고 현장 분위기만큼 정보를 확실하게 얻는 것이 더욱 중요해진 요즘. Youth!로 쉽게 정보를 접해보세요.</p>
 
+<br><br>
 
 # 시스템 구조도 및 메뉴트리
 <table>
