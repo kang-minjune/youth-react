@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/701f467c-9168-48da-aca1-fb543036624e" width="500px" height="400px" />
 </div>
 
+<br><br>
+
 <div align="center">
          <h1>대학축제 & 페스티벌 정보 확인을 한 플랫폼에서</h1>
 </div>
@@ -18,110 +20,45 @@
 
 <br><br>
 
-## Project Description
-YouthFestival의 프론트엔드 서버입니다. 
+<h1 align='center'> <b> Project Description </b></h1>
+<p align='center'>매해마다 찾아오는 대학축제 그리고 페스티벌 시즌! 즐기는 사람들을 위한 축제 정보 제공 웹 사이트 Youth!입니다. <br>다양한 니즈(needs)와 음악 취향 그리고 현장 분위기만큼 정보를 확실하게 얻는 것이 더욱 중요해진 요즘. Youth!로 쉽게 정보를 접해보세요.</p>
 
 
-<br>
+# 시스템 구조도 및 메뉴트리
+<table>
+  <tr><th>시스템 구조도</th><th>메뉴트리</th></tr>
+  <tr>
+  <td><img width="500" src="https://github.com/user-attachments/assets/2f9c6c0f-7736-4920-86bb-49e01235ea84" ></td>
+  <td><img width="500" src="https://github.com/user-attachments/assets/4369d705-77c5-491d-90de-4828303d44b3" ></td>
+</tr>
+</table>
+
+<br><br>
+
+# 개발 일정 및 역할 분담
+<table>
+  <tr><th>개발 일정</th><th>역할분담</th></tr>
+  <tr>
+      <td><img width="500" src="https://github.com/user-attachments/assets/c6f669e5-3c4f-43d4-8828-a288af3e9963" ></td>
+  <td><img width="500" src="https://github.com/user-attachments/assets/90ca8ee5-9f3e-4734-93f3-5f197098ddf8" ></td>
+
+</tr>
+</table>
+
+<br><br>
 
 ## Development
-| 항목 | 내용 |
-| --- | --- |
-| OS                            | <img src="https://img.shields.io/badge/-Windows-0052CC?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-Mac OS-417598?style=flat-square&logo=macos&logoColor=white"/> |                                     
-| IDE                           | <img src="https://img.shields.io/badge/-Visual Studio Code-0078F0?style=flat-square&logo=vscode&logoColor=white"/>|
-| Language                      | <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> |
-| React version                 | <img src="https://img.shields.io/badge/-React '18.3.1'-blue?style=flat-square&logo=react&logoColor=white"/> | 
-|Collaboration | <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4"> <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>|
+| Frontend | 내용 | Backend | 내용 | Collaborations | 내용 |
+| --- | --- | --- | --- | --- | --- |
+| OS                            | <img src="https://img.shields.io/badge/-Windows-0052CC?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-Mac OS-417598?style=flat-square&logo=macos&logoColor=white"/> |  Server Framework  | <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-646B52?style=flat-square&logo=flask&logoColor=white"/> | Documents | <a href="https://minjunkang.notion.site/HOME-262bcd755b234c53bae4f01a0288b501?pvs=4"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> |                               
+| IDE                           | <img src="https://img.shields.io/badge/-Visual Studio Code-0078F0?style=flat-square&logo=vscode&logoColor=white"/> | IDE | <img src="https://img.shields.io/badge/-InteliJ IDEA-0B2343?style=flat-square&logo=inteliji&logoColor=white"/> <img src="https://img.shields.io/badge/-Pycharm-64BC4B?style=flat-square&logo=pycharm&logoColor=white"/>| Design | <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/> |
+| Language                      | <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> | Language | <img src="https://img.shields.io/badge/-JAVA-navy?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-46C3D0?style=flat-square&logo=pyhon&logoColor=white"/> |
+| Cloud  | <img src="https://img.shields.io/badge/-AWS_EC2-FF6C2C?style=flat-square&logo=AWS_EC2&logoColor=white"/>|  Server Test  | <img src="https://img.shields.io/badge/-POSTMAN-red?style=flat-square&logo=postman&logoColor=white"/> |
+| React version                 | <img src="https://img.shields.io/badge/-React '18.3.1'-blue?style=flat-square&logo=react&logoColor=white"/> | DB | <img src="https://img.shields.io/badge/-MySQL-382923?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Workbench-134881?style=flat-square&logo=workbench&logoColor=white"/> |
 
+<br><br>
 
-## Dependencies
-
-### Core Libraries
-| Package | Version |
-| --- | --- |
-| react | 18.3.1 |
-| react-dom | 18.3.1 |
-| react-router-dom | 6.25.1 |
-| react-scripts | 5.0.1 |
-
-### Styling
-| Package | Version |
-| --- | --- |
-| @emotion/react | 11.13.0 |
-| @emotion/styled | 11.13.0 |
-| @mui/icons-material | 5.16.5 |
-| @mui/material | 5.16.5 |
-| classnames | 2.5.1 |
-| sass | 1.77.8 |
-| styled-components | 6.1.12 |
-
-### HTTP Client
-| Package | Version |
-| --- | --- |
-| axios | 1.7.2 |
-
-### Utility Libraries
-| Package | Version |
-| --- | --- |
-| date-fns | 3.6.0 |
-| classnames | 2.5.1 |
-
-### Charts
-| Package | Version |
-| --- | --- |
-| frappe-charts | 1.6.2 |
-| react-frappe-charts | 4.1.0 |
-
-### Testing
-| Package | Version |
-| --- | --- |
-| @testing-library/jest-dom | 5.17.0 |
-| @testing-library/react | 13.4.0 |
-| @testing-library/user-event | 13.5.0 |
-| msw | 2.1.7 |
-
-### Other React Libraries
-| Package | Version |
-| --- | --- |
-| react-daum-postcode | 3.1.3 |
-| react-icons | 5.2.1 |
-| react-modal | 3.16.1 |
-| react-quill | 2.0.0 |
-| react-spinners | 0.14.1 |
-
-### Alerts
-| Package | Version |
-| --- | --- |
-| sweetalert2 | 11.12.3 |
-| sweetalert2-react-content | 5.0.7 |
-
-### Image Processing
-| Package | Version |
-| --- | --- |
-| colorthief | 2.4.0 |
-
-### Swiper
-| Package | Version |
-| --- | --- |
-| swiper | 11.1.5 |
-
-### Web Vitals
-| Package | Version |
-| --- | --- |
-| web-vitals | 2.1.4 |
-
-
-<br>
-
-## Features
-- 캘린더로 직관성있게 확인할 수 있는 축제와 기간
-- 다양한 필터링을 적용해 축제 정보를 알 수 있는 리스트
-- 해당 축제 부스 정보, 위치를 알 수 있는 지도, 찜 기능 등을 담고 있는 상세
-- 자주 묻는 질문(FAQ)을 확인할 수 있는 챗봇
-
-<br>
-
-## Team Members
+## Frontend
 <table width="788">
 <thead>
 <tr>
@@ -214,3 +151,128 @@ YouthFestival의 프론트엔드 서버입니다.
     </tr>
 </tbody>
 </table>
+
+<br><br>
+
+## Backend
+| Name   | Role |
+|--------|------|
+| 서윤오 | 백엔드 서버 구현, 카카오 연동 로그인 |
+| 황영진 | 캘린더 페이지, 축제 상세 페이지, 계정페이지 <br> 회원탈퇴 UI 구현, Comment/QnA 작성 Modal 구현, 찜 기능 구현 |
+| 김재한 | Flask 서버 구현, LLM 및 RAG 구현, 챗봇 구현 <br> 이메일 인증 구현, 회원가입 기능 구현 |
+
+
+<br><br>
+
+
+  # 시연 연상
+
+
+| 메인 페이지                                                                                         |
+|-----------------------------------------------------------------------------------------------------|
+| ![메인 페이지](https://github.com/user-attachments/assets/5693dc2a-f151-4971-8514-1f7ce065c3cc)     |
+
+| 목록 페이지 1                                                                                       | 목록 페이지 2                                                                                       |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![목록 페이지 1](https://github.com/user-attachments/assets/e009ba59-930c-41b7-a059-8bf471daf839)   | ![목록 페이지 2](https://github.com/user-attachments/assets/678390ff-fbf7-4094-95e5-767f31ceb354)   |
+
+| 로그인 페이지 1                                                                                     | 로그인 페이지 2                                                                                     | 로그인 페이지 3                                                                                     |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![로그인 페이지 1](https://github.com/user-attachments/assets/dc3d4f56-b56e-4873-9453-6142d8e4172b) | ![로그인 페이지 2](https://github.com/user-attachments/assets/b93a677f-c35a-4982-b461-4f06878f5290) | ![로그인 페이지 3](https://github.com/user-attachments/assets/82888d8a-d1a4-492d-9617-1a2aeee603c8) |
+
+| 상세 페이지 1                                                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![상세 페이지 1](https://github.com/user-attachments/assets/c93c22e5-cd08-47f0-ac86-6d6ad507d96e)   | ![상세 페이지 2](https://github.com/user-attachments/assets/c93c22e5-cd08-47f0-ac86-6d6ad507d96e)   |
+
+| 마이 페이지                                                                                         |
+|-----------------------------------------------------------------------------------------------------|
+| ![마이 페이지](https://github.com/user-attachments/assets/003accd0-2ade-4aeb-8d82-df92d85f62ce)     |
+
+| 챗봇                                                                                                 |
+|-----------------------------------------------------------------------------------------------------|
+| ![챗봇](https://github.com/user-attachments/assets/ebd555ae-e8fb-44e4-8f97-e1a82c24b3ff)           |
+
+| 캘린더 페이지                                                                                       |
+|-----------------------------------------------------------------------------------------------------|
+| ![캘린더 페이지](https://github.com/user-attachments/assets/62fd604b-0af0-4054-b457-a5bc73032b64)   |
+
+<br><br>
+
+
+## Dependencies
+
+### Core Libraries
+| Package | Version |
+| --- | --- |
+| react | 18.3.1 |
+| react-dom | 18.3.1 |
+| react-router-dom | 6.25.1 |
+| react-scripts | 5.0.1 |
+
+### Styling
+| Package | Version |
+| --- | --- |
+| @emotion/react | 11.13.0 |
+| @emotion/styled | 11.13.0 |
+| @mui/icons-material | 5.16.5 |
+| @mui/material | 5.16.5 |
+| classnames | 2.5.1 |
+| sass | 1.77.8 |
+| styled-components | 6.1.12 |
+
+### HTTP Client
+| Package | Version |
+| --- | --- |
+| axios | 1.7.2 |
+
+### Utility Libraries
+| Package | Version |
+| --- | --- |
+| date-fns | 3.6.0 |
+| classnames | 2.5.1 |
+
+### Charts
+| Package | Version |
+| --- | --- |
+| frappe-charts | 1.6.2 |
+| react-frappe-charts | 4.1.0 |
+
+### Testing
+| Package | Version |
+| --- | --- |
+| @testing-library/jest-dom | 5.17.0 |
+| @testing-library/react | 13.4.0 |
+| @testing-library/user-event | 13.5.0 |
+| msw | 2.1.7 |
+
+### Other React Libraries
+| Package | Version |
+| --- | --- |
+| react-daum-postcode | 3.1.3 |
+| react-icons | 5.2.1 |
+| react-modal | 3.16.1 |
+| react-quill | 2.0.0 |
+| react-spinners | 0.14.1 |
+
+### Alerts
+| Package | Version |
+| --- | --- |
+| sweetalert2 | 11.12.3 |
+| sweetalert2-react-content | 5.0.7 |
+
+### Image Processing
+| Package | Version |
+| --- | --- |
+| colorthief | 2.4.0 |
+
+### Swiper
+| Package | Version |
+| --- | --- |
+| swiper | 11.1.5 |
+
+### Web Vitals
+| Package | Version |
+| --- | --- |
+| web-vitals | 2.1.4 |
+
+<br><br>
