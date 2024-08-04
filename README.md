@@ -16,6 +16,11 @@
   <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4">
       <img src="https://img.shields.io/badge/Notion-project_doc-blue?&style=for-the-badge&logo=notion">
   </a>
+
+  <a href="https://github.com/youthFestival">
+      <img src="https://img.shields.io/badge/GitHub-project_github-blue?&style=for-the-badge&logo=github">
+  </a>
+  
 </div>
 
 <br><br>
@@ -48,13 +53,13 @@
 <br><br>
 
 ## Development
-| Frontend | 내용 | Backend | 내용 | Collaborations | 내용 |
-| --- | --- | --- | --- | --- | --- |
-| OS                            | <img src="https://img.shields.io/badge/-Windows-0052CC?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-Mac OS-417598?style=flat-square&logo=macos&logoColor=white"/> |  Server Framework  | <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-646B52?style=flat-square&logo=flask&logoColor=white"/> | Documents | <a href="https://minjunkang.notion.site/HOME-262bcd755b234c53bae4f01a0288b501?pvs=4"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> |                               
-| IDE                           | <img src="https://img.shields.io/badge/-Visual Studio Code-0078F0?style=flat-square&logo=vscode&logoColor=white"/> | IDE | <img src="https://img.shields.io/badge/-InteliJ IDEA-0B2343?style=flat-square&logo=inteliji&logoColor=white"/> <img src="https://img.shields.io/badge/-Pycharm-64BC4B?style=flat-square&logo=pycharm&logoColor=white"/>| Design | <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/> |
-| Language                      | <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> | Language | <img src="https://img.shields.io/badge/-JAVA-navy?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-46C3D0?style=flat-square&logo=pyhon&logoColor=white"/> |
-| Cloud  | <img src="https://img.shields.io/badge/-AWS_EC2-FF6C2C?style=flat-square&logo=AWS_EC2&logoColor=white"/>|  Server Test  | <img src="https://img.shields.io/badge/-POSTMAN-red?style=flat-square&logo=postman&logoColor=white"/> |
-| React version                 | <img src="https://img.shields.io/badge/-React '18.3.1'-blue?style=flat-square&logo=react&logoColor=white"/> | DB | <img src="https://img.shields.io/badge/-MySQL-382923?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Workbench-134881?style=flat-square&logo=workbench&logoColor=white"/> |
+| 항목 | 내용 |
+| --- | --- |
+| OS                            | <img src="https://img.shields.io/badge/-Windows-0052CC?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-Mac OS-417598?style=flat-square&logo=macos&logoColor=white"/> |                                     
+| IDE                           | <img src="https://img.shields.io/badge/-Visual Studio Code-0078F0?style=flat-square&logo=vscode&logoColor=white"/>|
+| Language                      | <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> |
+| React version                 | <img src="https://img.shields.io/badge/-React '18.3.1'-blue?style=flat-square&logo=react&logoColor=white"/> | 
+|Collaboration | <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4"> <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>|
 
 <br><br>
 
@@ -142,7 +147,7 @@
         </td>
         <td width="60" align="center">
           <a href="https://github.com/kang-minjune">
-            <img src="http://img.shields.io/badge/kangminjun-655ced?style=social&logo=github"/>
+            <img src="http://img.shields.io/badge/minjun-655ced?style=social&logo=github"/>
           </a>
         </td>
         <td width="155" align="center">
@@ -151,15 +156,6 @@
     </tr>
 </tbody>
 </table>
-
-<br><br>
-
-## Backend
-| Name   | Role |
-|--------|------|
-| 서윤오 | 백엔드 서버 구현 |
-| 김재한 | Flask 서버 구현, LLM 및 RAG 구현 |
-
 
 <br><br>
 
@@ -187,7 +183,7 @@
 |-----------------------------------------------------------------------------------------------------|
 | ![마이 페이지](https://github.com/user-attachments/assets/003accd0-2ade-4aeb-8d82-df92d85f62ce)     |
 
-| 챗봇                                                                                                 |
+| 챗봇                                                                                                 | 
 |-----------------------------------------------------------------------------------------------------|
 | ![챗봇](https://github.com/user-attachments/assets/ebd555ae-e8fb-44e4-8f97-e1a82c24b3ff)           |
 
